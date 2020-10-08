@@ -29,7 +29,7 @@
 * [fileHttpServer](https://github.com/youngyangyang04/fileHttpServer)：文件上传服务项目
 * [PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen)：批量生成SQL的服务
 
-## 我的公众号
+## 我的公众号:
 
 <img src='https://img-blog.csdnimg.cn/2020100812093127.png' width=500> </img></div>
 
