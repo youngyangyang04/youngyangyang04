@@ -30,7 +30,7 @@
 
 ## 我的公众号
 
-![公众号](https://img-blog.csdnimg.cn/20201008120150806.png)
+<img src='https://img-blog.csdnimg.cn/20201008120150806.png' width=300> </img></div>
 
 
 
