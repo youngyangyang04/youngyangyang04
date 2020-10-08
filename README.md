@@ -31,7 +31,7 @@
 
 ## 我的公众号
 
-<img src='https://img-blog.csdnimg.cn/20201008120150806.png' width=500> </img></div>
+<img src='https://img-blog.csdnimg.cn/2020100812093127.png' width=500> </img></div>
 
 
 
