@@ -12,19 +12,19 @@
 
 [我的知乎](https://www.zhihu.com/people/sun-xiu-yang-64) 里面有回答各种计算机领域知识以及相关技术的文章。
 
-## 我的开源项目🔥：
+## 我的开源项目：
 
 ### 学习规划 🌱
-* [Leetcode-master](https://github.com/youngyangyang04/leetcode-master)：leetcode刷题全攻略就在这里
-* [TechCPP](https://github.com/youngyangyang04/TechCPP)：C++后端研发工程师面试和工作必备的知识点
+* [Leetcode-master](https://github.com/youngyangyang04/leetcode-master)🔥：leetcode刷题全攻略就在这里
+* [TechCPP](https://github.com/youngyangyang04/TechCPP)🔥：C++后端研发工程师面试和工作必备的知识点
 * [DesignPattern](https://github.com/youngyangyang04/DesignPattern)：各种重要的设计模式
-* [Markdown-Resume-Template](https://github.com/youngyangyang04/Markdown-Resume-Template)：Carl的简历模板
+* [Markdown-Resume-Template](https://github.com/youngyangyang04/Markdown-Resume-Template)🔥：Carl的简历模板
 * [PowerVim](https://github.com/youngyangyang04/PowerVim)：最强VIM配置，可以满足工业开发工作的需求
 
 ### 数据库方向 🔭
-* [NoSQLAttack](https://github.com/youngyangyang04/NoSQLAttack)：国内最大的非关系型数据库注入攻击开源项目
+* [NoSQLAttack](https://github.com/youngyangyang04/NoSQLAttack)🔥：国内最大的非关系型数据库注入攻击开源项目
 * [NoSQLInjectionAttackDemo](https://github.com/youngyangyang04/NoSQLInjectionAttackDemo)：非关系型数据库注入攻击系统demo 
-* [Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP)：newsql数据库存储引擎C++实现（跳表）
+* [Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP)🔥：newsql数据库存储引擎C++实现（跳表）
 
 ### 小游戏 😄
 * [Gomoku](https://github.com/youngyangyang04/Gomoku)：可联机对战的五子棋项目
