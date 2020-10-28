@@ -2,11 +2,13 @@
 
 我是程序员Carl，哈工大师兄，ACM亚洲赛铜牌打杂，毕业先后在腾讯和百度采坑多年。
 
-目前我在公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)里开启了一项浩大的工程，就是从头开始循序渐进的讲解[数据结构与算法](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1485825793120387074&__biz=MzUxNjY5NTYxNA==#wechat_redirect)，从leetcode里随便找个题目讲解是容易的，但是如果按照类型从基础到提高循序渐进的去讲解是非常有挑战的，因为要对整个体系有清晰的认识才能讲好。
+我在公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)里开启了一项浩大的工程，就是从头开始循序渐进的讲解[数据结构与算法](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1485825793120387074&__biz=MzUxNjY5NTYxNA==#wechat_redirect)，从leetcode里随便找个题目讲解是容易的，但是如果按照类型从基础到提高循序渐进的去讲解是非常有挑战的，因为要对整个体系有清晰的认识才能讲好。
 
-讲解的顺序为**数组->链表->哈希表->字符串->栈与队列->二叉树->回溯->贪心->动态规划->图论->高级数据结构**，现在已经讲到了回溯算法。
+目前讲解的顺序为**数组->链表->哈希表->字符串->栈与队列->二叉树->回溯->贪心->动态规划->图论->高级数据结构**，现在已经讲到了回溯算法。
 
 如果你想提升算法能力，只要跟住[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)每天题目的节奏，定会融会贯通，算法能力稳稳的提升一个台阶！
+
+**算法文章以及详细的刷题攻略已经整理到[Leetcode-master](https://github.com/youngyangyang04/leetcode-master)**，大家可以fork到自己的仓库，按照自己的计划从头学习起来，别忘了给个star！
 
 [我的B站视频](https://space.bilibili.com/525438321)里面有我讲解的编程语言和算法相关的视频。
 
