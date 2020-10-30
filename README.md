@@ -23,7 +23,6 @@
 * [TechCPP](https://github.com/youngyangyang04/TechCPP)🔥：C++后端研发工程师面试和工作必备的知识点
 * [DesignPattern](https://github.com/youngyangyang04/DesignPattern)：各种重要的设计模式
 * [Markdown-Resume-Template](https://github.com/youngyangyang04/Markdown-Resume-Template)🔥：Carl的简历模板
-* [PowerVim](https://github.com/youngyangyang04/PowerVim)：最强VIM配置，可以满足工业开发工作的需求
 
 ### 数据库方向 🔭
 * [NoSQLAttack](https://github.com/youngyangyang04/NoSQLAttack)🔥：国内最大的非关系型数据库注入攻击开源项目
@@ -34,8 +33,9 @@
 * [Gomoku](https://github.com/youngyangyang04/Gomoku)：可联机对战的五子棋项目
 
 ### 开发的工具 📫
-* [fileHttpServer](https://github.com/youngyangyang04/fileHttpServer)：文件上传服务项目
-* [PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen)：批量生成SQL的服务
+* [PowerVim](https://github.com/youngyangyang04/PowerVim)🔥：最强VIM配置，可以满足工业开发工作的需求
+* [fileHttpServer](https://github.com/youngyangyang04/fileHttpServer)：文件上传服务
+* [PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen)：批量生成SQL的工具
 
 ## 我的公众号⚡：
 
