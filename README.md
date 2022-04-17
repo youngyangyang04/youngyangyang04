@@ -1,6 +1,6 @@
 ## Hi 👋
 
-我是程序员Carl，哈工大师兄，获得过ACM亚洲区奖牌，毕业先后在腾讯和百度采坑多年。
+我是程序员Carl，[《代码随想录》](https://programmercarl.com/other/publish.html)作者，哈工大师兄，先后在腾讯和百度采坑多年。
 
 我在公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)里开启了一项浩大的工程，就是从头开始循序渐进的讲解**数据结构算法**，从leetcode里随便找个题目讲解是容易的，但是如果按照类型从基础到提高循序渐进的去讲解是非常有挑战的，因为要对整个体系有清晰的认识才能讲好。
 
@@ -8,7 +8,7 @@
 
 如果你想提升算法能力，只要跟住[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)每天题目的节奏，定会融会贯通，算法能力稳稳的提升一个台阶！
 
-**算法文章以及详细的刷题攻略已经整理到[Leetcode-master](https://github.com/youngyangyang04/leetcode-master)**，大家可以fork到自己的仓库，按照自己的计划从头学习起来，别忘了给个star！
+**算法文章以及详细的刷题攻略已经整理到[Leetcode-master](https://github.com/youngyangyang04/leetcode-master)**，大家可以fork到自己的仓库，按照自己的计划从头学习起来，别忘了给个star哈！
 
 [我的B站视频](https://space.bilibili.com/525438321)里面有我讲解的编程语言和算法相关的视频。
 
