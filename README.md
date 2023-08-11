@@ -1,11 +1,13 @@
 ## Hi 👋
 
-大家好，我是程序员Carl。以下资料会对大家很有帮助： 
+大家好，我是程序员Carl。哈工大师兄，ACM亚洲区域赛铜牌，毕业后在腾讯、百度采坑多年，以下资料会对大家很有帮助： 
 
 * [代码随想录官网（刷题攻略）](https://www.programmercarl.com/)  
 * [代码随想录算法公开课](https://www.bilibili.com/video/BV1fA4y1o715) 
+* [卡码网-代码训练场](https://kamacoder.com/)
 * [代码随想录知识星球](https://programmercarl.com/other/kstar.html)
 * [代码随想录算法训练营](https://programmercarl.com/other/xunlianying.html)
+
 
 ## 我的开源项目：
 
