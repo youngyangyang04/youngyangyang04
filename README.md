@@ -13,11 +13,13 @@
 
 ### 学习规划 🌱
 * [Leetcode-master](https://github.com/youngyangyang04/leetcode-master)🔥：leetcode刷题全攻略就在这里
+* [DesignPattern](https://github.com/youngyangyang04/kama-DesignPattern)🔥：23种设计模式精讲配套编程题目
 * [TechCPP](https://github.com/youngyangyang04/TechCPP)🔥：C++后端研发工程师面试和工作必备的知识点
-* [DesignPattern](https://github.com/youngyangyang04/DesignPattern)：各种重要的设计模式
 * [Markdown-Resume-Template](https://github.com/youngyangyang04/Markdown-Resume-Template)🔥：Carl的简历模板
+* [kamacoder-solutions](https://github.com/youngyangyang04/kamacoder-solutions)：[卡码网](https://kamacoder.com/)全套题解
 
-### 数据库方向 🔭
+### 开源项目 🔭
+* [KVstorageBaseRaft-CPP](https://github.com/youngyangyang04/KVstorageBaseRaft-cpp)：基于Raft的k-v存储数据库
 * [NoSQLAttack](https://github.com/youngyangyang04/NoSQLAttack)🔥：国内最大的非关系型数据库注入攻击开源项目
 * [NoSQLInjectionAttackDemo](https://github.com/youngyangyang04/NoSQLInjectionAttackDemo)：非关系型数据库注入攻击系统demo 
 * [Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP)🔥：newsql数据库存储引擎C++实现（跳表）
