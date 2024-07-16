@@ -20,9 +20,10 @@
 
 ### 开源项目 🔭
 * [KVstorageBaseRaft-CPP](https://github.com/youngyangyang04/KVstorageBaseRaft-cpp)🔥：基于Raft的k-v存储数据库
-* [NoSQLAttack](https://github.com/youngyangyang04/NoSQLAttack)🔥：国内最大的非关系型数据库注入攻击开源项目
-* [NoSQLInjectionAttackDemo](https://github.com/youngyangyang04/NoSQLInjectionAttackDemo)：非关系型数据库注入攻击系统demo 
+* [RPC-Java](https://github.com/youngyangyang04/RPC-Java)🔥：手撕RPC框架
 * [Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP)🔥：newsql数据库存储引擎C++实现（跳表）
+* [NoSQLAttack-Python](https://github.com/youngyangyang04/NoSQLAttack)🔥：国内最大的非关系型数据库注入攻击开源项目
+* [NoSQLInjectionAttackDemo](https://github.com/youngyangyang04/NoSQLInjectionAttackDemo)：非关系型数据库注入攻击系统demo 
 
 ### 小游戏 😄
 * [Gomoku](https://github.com/youngyangyang04/Gomoku)：可联机对战的五子棋项目
@@ -32,12 +33,12 @@
 * [fileHttpServer](https://github.com/youngyangyang04/fileHttpServer)：文件上传服务
 * [PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen)：批量生成SQL的工具
 
-## 我的公众号⚡：
-
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="400" height="300"></img></div>
 
 
 <!--
+## 我的公众号⚡：
+
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="400" height="300"></img></div>
 ### Hi there 👋
 **youngyangyang04/youngyangyang04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
