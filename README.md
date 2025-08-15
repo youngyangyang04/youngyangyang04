@@ -102,7 +102,7 @@
 - [muduo-core](https://github.com/youngyangyang04/muduo-core)：高性能网络库
 - [KamaOS](https://github.com/youngyangyang04/KamaOS)：操作系统项目
 - [kama-webserver](https://github.com/youngyangyang04/kama-webserver)：WebServer
-- [kamaLog](https://github.com/youngyangyang04/kamaLog)：异步日志系统
+- [kamaLog](https://github.com/youngyangyang04/kamaLog)：日志系统
 - [Kama-AsynLogSystem-CloudStorage](https://github.com/youngyangyang04/Kama-AsynLogSystem-CloudStorage)：异步日志云存储
 - [Kama-HTTPServer](https://github.com/youngyangyang04/Kama-HTTPServer)：HTTP 服务框架
 
